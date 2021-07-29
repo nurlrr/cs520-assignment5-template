@@ -1,0 +1,13 @@
+player 1 uniform number
+player 1 name
+player 1 position
+player 1 year
+-----
+player 2 uniform number
+player 2 name
+player 2 position
+player 2 year
+-----
+etc...
+
+Overwrite this file with your team.txt from the previous assignment
